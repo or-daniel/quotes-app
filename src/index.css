@@ -1,0 +1,27 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #5b4192;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  padding: 0 2em;
+  width: 100%;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 3.2em;
+}

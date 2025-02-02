@@ -1,0 +1,42 @@
+.quoteCard {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.cardBox {
+  margin-bottom: 16px;
+}
+
+.cardBody {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 16px;
+  color: rgb(44, 44, 44);
+
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.cardAuthor {
+  color: #555;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.cardTag {
+  color: #5b4192;
+  text-align: center;
+  font-style: italic;
+  margin-top: 16px;
+}
