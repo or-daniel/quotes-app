@@ -8,7 +8,7 @@ Use a separate terminal for the frontend and the backend.
 
 ## Run the commands:
 
-clone
+git clone https://github.com/or-daniel/quotes-app.git
 
 cd quotes-app
 
